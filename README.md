@@ -1,2 +1,2 @@
 # MITxPRO-FormikLogin
-A simple Formik React App to solict user credentials for a login.
+A simple Formik React App to solicit user credentials for a login.
